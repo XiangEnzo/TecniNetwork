@@ -6,9 +6,9 @@
 
 # Channel: https://www.youtube.com/channel/UCjs0N8PbEo-se0r_4O_svNQ
 
-#
+# puto el que lo lea XD
 
-#
+# COME NEPES SI ESTO TAMBIEN :V
 
 CesarHackGray=$(mktemp)
 
